@@ -1,0 +1,25 @@
+{
+  "start": "OAT-2",
+  "uses": [
+    [
+      "OAT-2",
+      "BASE-A"
+    ],
+    [
+      "BASE-A",
+      "BAR-7"
+    ],
+    [
+      "BASE-A",
+      "BAR-8"
+    ],
+    [
+      "OAT-2",
+      "BAR-8"
+    ],
+    [
+      "SALT-1",
+      "SOUP-2"
+    ]
+  ]
+}
